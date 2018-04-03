@@ -1,0 +1,217 @@
+.ptsans{
+	font-family: PTSans-Caption;
+	font-weight: normal;
+	font-style: normal;
+    font-stretch: normal;
+}
+
+.backslide{
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 700px;
+	margin-top: -80px;
+}
+
+.bnr_conte{
+	margin-top: 10px;
+
+}
+
+.slogan{
+	font-size: 65px;
+	color: #fff;
+	font-weight: 900;
+	margin-bottom: 0px;
+	margin-top: 0px;
+}
+
+.text2{
+	color: #51c1e9;
+	 letter-spacing: 6px;
+}
+
+.bnr_text{
+	 color: white;
+	 font-size: 32px;
+}
+
+
+/*SECCION INFO*/
+.info_grid{
+	padding: 80px 0px 0px;
+}
+
+
+.info{
+	font-size: 20px;
+	color: #9e9ea3;
+	font-weight:  normal;
+	font-stretch:  normal;
+	line-height:  2.15;
+	letter-spacing:  -0.4px;
+	text-align:  center;
+	margin:-10px 0px -10px;
+}
+
+.info_text2{
+	color: #51c1e9;
+	letter-spacing: 0px;
+	font-weight: 900;
+
+}
+
+.info_title{
+	color: #9e9ea3;
+	font-weight: 900;
+	font-size: 42px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+.info_subtext{
+	color: #9e9ea3;
+	font-size: 18px;
+	text-align: center;
+	margin: 80px;
+}
+
+
+
+/*SECCION EMPRESA Y PERSONAL*/
+
+
+
+
+.seccion_btn_info{
+	padding: 10px;
+	width:  100%;
+	background-color: #51c1e9;
+	color: white;
+}
+.seccion_btn_info2{
+	padding: 10px;
+	width:  100%;
+	background-color: #0000ff;
+	color: white;
+}
+
+.seccion_conte_info{
+
+	padding: 25px;
+	height: 400px;  
+	background-color: #dbebf5;
+
+}
+
+
+
+.tab_backcolor{
+	background-color: white;
+}
+
+.seccion_per{
+	padding: 10px 10px 10px;
+	color: white;
+	background-color: #51c1e9;
+	font-size: 24px;
+	color: white;
+}
+.seccion_emp{
+	padding: 10px 10px 10px;
+	color: white;
+	background-color: blue;
+	font-size: 24px;
+	color: white;
+}
+.seccion_ico{
+	padding-right: 10px;
+	padding-left: 10px;
+	/* margin-top: 40px; */
+	font-size: 62px;
+	padding-top: 20px;
+}
+
+.center_iten{
+	padding-bottom: 10px;
+	padding-top: 0px;
+}
+
+.seccion_drowcolor{
+	background-color: blue;
+	padding: 10px;
+	color: white;
+}
+
+.seccion_drowcolor2{
+	background-color: #51c1e9;
+	padding: 10px;
+	color: white;
+}
+
+.seccion_cola{
+	padding-left: 20px;
+}
+
+/*@media only screen and (max-width: 600px) {
+    .seccion_drowcolor{
+	background-color: blue;
+	padding: 10px;
+	border: 1px solid black;
+	color: black;
+	}
+}
+*/
+
+
+
+ /*SECCION OWL*/
+
+ .owl_img{
+ 	 width: 100px;
+ 	 height: 100px;
+ }
+
+.owl_mp{
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+.owl_backcolor{
+	background-color: #d6f1fb;
+}
+
+
+.owl_title{
+	margin: 36px 0px 36px;
+	font-size: 32px;
+	color: #51c1e9;
+}
+
+
+
+/*SECCION FOOTER*/
+.foot_text{
+	color: #fff;
+	padding: 20px 0px 20px;
+	font-weight: 100;
+	letter-spacing: 2px;
+}
+.foot_back{
+	background-color: black;
+}
+
+
+/*******/
+
+.dropdown-submenu {
+    position: relative;
+}
+
+.dropdown-submenu .dropdown-menu {
+    top: 0;
+    left: 100%;
+    margin-top: -1px;
+}
+
+
+

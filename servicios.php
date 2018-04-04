@@ -8,10 +8,7 @@
 
 <?php
 	include 'layout/menu.php';
-	include 'layout/slide.php';
-	include 'layout/info.php';
-	include 'layout/seccion.php';
-	include 'layout/aseguradas.php';
+	include 'layout/persona_servicio.php';
 	include 'layout/footer.php';
 	//callJ&Scritp
 	include 'particles/script.php';

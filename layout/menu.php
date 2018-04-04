@@ -1,32 +1,44 @@
-<div class="container" style="margin-top: 10px; background-color: grey;" >
-<nav class="navbar navbar-default navbar-static-top" role="navigation">
-  <div class="container-fluid">
-    <!-- Brand and toggle get grouped for better mobile display -->
-    <div class="navbar-header" style="margin-top: -20px;">
-      <a class="navbar-brand" href="#"><img src="img/morgan-letra-blanca.png" width="70"></a>
+   
+   <div class="container-fluid">
+      <nav class="navbar  navbar-default  navbar-static-top">
+        <div class="container">
+          <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+              <span class="sr-only">Toggle navigation</span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand hidden-xs hidden-sm" href="#"><img src="img/morgan-letra-blanca.png"  class="img-responsive" ></a>
+            <a class="navbar-brand hidden-md hidden-lg" href="#"><img src="img/morgan-logo-mobile.png"  class="img-responsive" ></a>
+          </div>
+          <div id="navbar" class="navbar-collapse collapse">
+            <ul class="nav navbar-nav">
+              <li><a class="menu_coliten"  href="#">Inicio</a></li>
+              <li><a class="menu_coliten"  href="servicios.php">Servicios</a></li>
+              <li><a class="menu_coliten"  href="#">Empresas</a></li>
+              <li><a class="menu_coliten"  href="#">Personas</a></li>
+              <li><a class="menu_coliten"  href="#">Blog</a></li>
+              <li><a class="menu_coliten"  href="#">Contacto</a></li>
+
+             <!--  <li class="dropdown">
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Dropdown <span class="caret"></span></a>
+                <ul class="dropdown-menu">
+                  <li><a href="#">Action</a></li>
+                  <li><a href="#">Another action</a></li>
+                  <li><a href="#">Something else here</a></li>
+                  <li role="separator" class="divider"></li>
+                  <li class="dropdown-header">Nav header</li>
+                  <li><a href="#">Separated link</a></li>
+                  <li><a href="#">One more separated link</a></li>
+                </ul>
+              </li> -->
+
+            </ul>
+            <ul class="nav navbar-nav navbar-right">
+               <li><a class="menu_coliten" href="#"><i class="fas fa-phone-volume"></i> 921966985</a></li>
+            </ul>
+          </div><!--/.nav-collapse -->
+        </div><!--/.container-fluid -->
+      </nav>
     </div>
-    <!-- Collect the nav links, forms, and other content for toggling -->
-    <div class="navbar-collapse style= collapse in" id="bs-megadropdown-tabs" style="padding-left: 0px;">
-        <ul class="nav navbar-nav">
-            <li><a href="#">Inicios</a></li>
-            <li class="dropdown mega-dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Nosotros 
-            <span class="caret"></span></a>       
-                <div id="filters" class="dropdown-menu mega-dropdown-menu">
-                  <ul class="nav" role="tablist">   
-                    <li class="active"><a href="#kids" role="tab" data-toggle="tab">lista #1</a></li>
-                    <li><a href="#sports" role="tab" data-toggle="tab">lista #2</a></li>
-                  </ul>                    
-                </div>        
-            </li>
-            <li><a href="#">Empresas</a></li>
-            <li><a href="#">Personas</a></li>
-            <li><a href="#">Blog</a></li>
-            <li><a href="">Contacto</a></li>
-        </ul>
-        <ul class="nav navbar-nav navbar-right">
-          <li><a href="#"><i class="fas fa-phone-volume"></i> 921966985</a></li>
-        </ul>
-    </div><!-- /.navbar-collapse -->
-  </div><!-- /.container-fluid -->
-</nav>
-</div>

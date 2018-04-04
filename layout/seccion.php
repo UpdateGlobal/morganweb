@@ -1,18 +1,19 @@
 <div class="container-fluid tab_backcolor">
 	<div class="row" align="center">
-		<div class="col-md-6 col-sm-6 seccion_emp" align="right">
+		<div class="col-md-6 col-sm-6 col-xs-6 seccion_emp" align="right">
 			<a href="#empresa" aria-controls="profile" role="tab" data-toggle="tab">
-			<span class="center_iten">Soy Una EMPRESA</span>	
-			<i class="fas fa-building seccion_ico"></i>
+			<span class="center_iten hidden-xs">Soy Una EMPRESA</span>	
+			<img src="img/factory.png">		
 			</a>	
 		</div>
-		<div class="col-md-6 col-sm-6 seccion_per" align="left">
+		<div class="col-md-6 col-sm-6 col-xs-6 seccion_per" align="left">
 			<a href="#personas" aria-controls="messages" role="tab" data-toggle="tab">
-			<i class="fas fa-user seccion_ico"></i>
-			<span class="center_iten">Soy Una PERSONAS</span>	
+			<img src="img/study.png">	<span class="center_iten hidden-xs">Soy Una PERSONAS</span>	
 			</a>
 		</div>
 	</div>
+
+
 
 
 	 <div align="center" style="padding-top: 15px; padding-bottom: 15px;">
@@ -21,14 +22,6 @@
 	    	<div class="container">
 	    		<div class="row">
 	    			<div class="col-sm-3" align="left">
-
-
-
-
-
-					
-
-
 
 						<div  class="dropdown">
 						  <p class="dropdown-toggle active seccion_drowcolor" type="button" id="menuproducosempresa" data-toggle="dropdown" aria-haspopup="false" aria-expanded="false">

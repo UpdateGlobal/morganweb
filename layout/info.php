@@ -1,4 +1,14 @@
 <div class="container-fluid" style="background-color: #fffefe;">
+
+			<div class="hidden-md hidden-lg hidden-sm" style="padding-top: 30px;">
+				<div class="container">
+					<div class="row" align="center">
+						<img src="img/morgan-logo-copy.png" class="img-responsive">
+					</div>
+				</div>
+			</div>
+
+
 	<div class="row info_grid">
 		<div class="col-md-12" align="center">
 			<h3 class="ptsans info">RECONOCIDOS</h3>

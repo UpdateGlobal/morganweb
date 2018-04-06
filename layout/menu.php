@@ -14,8 +14,9 @@
           </div>
           <div id="navbar" class="navbar-collapse collapse">
             <ul class="nav navbar-nav">
-              <li><a class="menu_coliten"  href="#">Inicio</a></li>
+              <li><a class="menu_coliten"  href="index.php">Inicio</a></li>
               <li><a class="menu_coliten"  href="servicios.php">Servicios</a></li>
+              <li><a class="menu_coliten"  href="nosotros.php">Nosotros</a></li>
               <li><a class="menu_coliten"  href="#">Empresas</a></li>
               <li><a class="menu_coliten"  href="#">Personas</a></li>
               <li><a class="menu_coliten"  href="#">Blog</a></li>

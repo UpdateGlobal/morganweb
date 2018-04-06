@@ -1,5 +1,5 @@
 <div class="hidden-md hidden-lg">
-<div class="container-fluid backslide img-responsive" style="background-image: url('img/bitmap.jpg');">
+<div class="container-fluid backslide img-responsive sjdghjreg" >
   <div class="row" align="center">
     <div class="col-md-6 col-md-offset-6" >
       <h1 class="slogan2">LA SEGURIDAD <br>ES <span class="text2">FELICIDAD</span></h1>

@@ -3,8 +3,12 @@
 	font-weight: normal;
 	font-style: normal;
     font-stretch: normal;
+    font-weight: 400;
 }
 
+.sjdghjreg{
+	background-image: url('img/bitmap.jpg');
+}
 
 .backslide{
 	background-size: cover;
@@ -17,6 +21,11 @@
 .bnr_conte{
 	margin-top: 10px;
 
+}
+
+.vineta_sty{
+	color: #51c1e9;
+    margin: 0px 10px 0px;
 }
 
 .slogan{
@@ -32,8 +41,7 @@
 	font-size: 24px;
 	color: #fff;
 	font-weight: 900;
-	padding-top: 40px;
-
+	padding-top: 100px;
 }
 
 
@@ -46,14 +54,9 @@
  
 }
 
-
-
-
-
-
 .text2{
 	color: #51c1e9;
-	 letter-spacing: 6px;
+	
 }
 
 .bnr_text{
@@ -64,13 +67,17 @@
 .bnr_text2{
 	 color: white;
 	 font-size: 18px;
+	 margin-top: -20px;
 }
 
 /*MENU*/
-
+.menu_coliten{
+	padding-left: 15px;
+}
 
 .menu_color_drop{
 	 color: #51c1e9 !important;
+	
 }
 
 /*SECCION INFO*/
@@ -112,11 +119,20 @@
 	margin: 80px;
 }
 
+@media only screen and (max-width: 992px) {
+	.info_subtext2{
+	color: #9e9ea3;
+	font-size: 18px;
+	text-align: center;
+	margin: 40px;
+	}
+  
+}
 
 
 /*SECCION EMPRESA Y PERSONAL*/
 
-
+.icon_respo{}
 
 
 .seccion_btn_info{
@@ -132,15 +148,11 @@
 	color: white;
 }
 
-.seccion_conte_info{
+.seccion_conte_info{padding: 25px;height: auto;background-color: #dbebf5;}
 
-	padding: 25px;
-	height: 400px;  
-	background-color: #dbebf5;
-
+.seccion_drop{
+	position: relative;
 }
-
-
 
 .tab_backcolor{
 	background-color: white;
@@ -156,10 +168,39 @@
 .seccion_emp{
 	padding: 10px 10px 10px;
 	color: white;
-	background-color: blue;
+	background-color: #13208f;
 	font-size: 24px;
 	color: white;
 }
+
+
+@media only screen and (max-width: 600px) {
+
+	.seccion_per{
+	padding: 120px 50px 120px;
+	color: white;
+	background-color: #51c1e9;
+	font-size: 24px;
+	color: white;
+}
+.seccion_emp{
+	padding: 120px 60px 120px;
+	color: white;
+	background-color: #13208f;
+	font-size: 24px;
+	color: white;
+}
+   
+}
+
+
+
+
+
+
+
+
+
 .seccion_ico{
 	padding-right: 10px;
 	padding-left: 10px;
@@ -189,18 +230,6 @@
 	padding-left: 20px;
 }
 
-/*@media only screen and (max-width: 600px) {
-    .seccion_drowcolor{
-	background-color: blue;
-	padding: 10px;
-	border: 1px solid black;
-	color: black;
-	}
-}
-*/
-
-
-
  /*SECCION OWL*/
 
  .owl_img{
@@ -229,7 +258,7 @@
 /*SECCION FOOTER*/
 .foot_text{
 	color: #fff;
-	padding: 20px 0px 20px;
+	padding: 30px 0px 60px;
 	font-weight: 100;
 	letter-spacing: 2px;
 }
@@ -267,10 +296,61 @@
 
 .ser_info{
 	color: #9e9ea3;
-	font-size: 18px;
+	font-size: 14px;
 	text-align: justify;
 	display: block;
 	
+}
+
+.ser_info2{
+	color: #9e9ea3;
+	font-size: 12px;
+	text-align: justify;
+	display: block;
+	
+}
+
+/*SECCION NOSOTROS*/
+
+
+.p_tipotext{
+	font-family: PTSans-Caption;
+  font-size: 27px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 0.63;
+  letter-spacing: -0.4px;
+  text-align: center;
+  color: #51c1e9;
+}
+.p_text2{
+	padding-bottom: 30px;
+}
+
+
+.p_bt{
+	padding-top: 0px;
+	padding-bottom: 20px;
+	letter-spacing:  10px;
+}
+.p_text{
+	color: #a6e5fd;
+	padding-bottom: 30px;
 
 }
 
+.p_lftb{
+	margin: 70px 70px 70px;
+}
+
+@media only screen and (max-width: 600px) {
+   .p_lftb{
+	margin: 10px 10px 10px;
+	}
+}
+
+.nos_back{
+	background-color: white;
+	color: #9e9ea3;
+}

@@ -28,10 +28,10 @@
 				cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
 				proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 					<ul class="text-left">
-						<li class="ser_info">►lista de nose</li>
-						<li class="ser_info">►lista de nose</li>
-						<li class="ser_info">►lista de nose</li>
-						<li class="ser_info">►lista de nose</li>
+						<li class="ser_info"><i class="fas fa-angle-double-right vineta_sty"></i>lista de nose</li>
+						<li class="ser_info"><i class="fas fa-angle-double-right vineta_sty"></i>lista de nose</li>
+						<li class="ser_info"><i class="fas fa-angle-double-right vineta_sty"></i>lista de nose</li>
+						<li class="ser_info"><i class="fas fa-angle-double-right vineta_sty"></i>lista de nose</li>
 					</ul>
 
 				<br>

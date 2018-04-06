@@ -2550,8 +2550,8 @@ output {
 .form-control {
   display: block;
   width: 100%;
-  height: 45px;
-  padding: 15px 20px;
+  height: 30px;
+  padding: 25px 20px;
   font-size: 10px;
   line-height: 1.428571;
   color: #99a0be;
@@ -3552,12 +3552,15 @@ tbody.collapse.in {
 }
 .dropdown-menu > li > a {
   display: block;
-  padding: 3px 20px;
-  clear: both;
+  padding: 0px 15px;
+  /* clear: both; */
   font-weight: normal;
   line-height: 1.42857143;
   color: #333;
+  font-size: 12px;
   white-space: nowrap;
+  margin-bottom: 5px;
+  width: 195px;
 }
 .dropdown-menu > li > a:hover,
 .dropdown-menu > li > a:focus {
@@ -3568,10 +3571,11 @@ tbody.collapse.in {
 .dropdown-menu > .active > a,
 .dropdown-menu > .active > a:hover,
 .dropdown-menu > .active > a:focus {
-  color: #fff;
+  color: #000;
   text-decoration: none;
-  background-color: #337ab7;
+  /* background-color: #337ab747; */
   outline: 0;
+  /* width: 200px; */
 }
 .dropdown-menu > .disabled > a,
 .dropdown-menu > .disabled > a:hover,
@@ -3985,7 +3989,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 .nav > li > a {
   position: relative;
   display: block;
-  padding: 10px 15px;
+  padding: 3px 1px;
 }
 .nav > li > a:hover,
 .nav > li > a:focus {
@@ -4005,7 +4009,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 .nav .open > a,
 .nav .open > a:hover,
 .nav .open > a:focus {
-  background-color: #eee;
+  /* background-color: #eee; */
   border-color: #337ab7;
 }
 .nav .nav-divider {
@@ -4030,6 +4034,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   /* border: 1px solid transparent; */
   /* border-radius: 4px 4px 0 0; */
   background-color: #fff;
+  color: black;
 }
 .nav-tabs > li > a:hover {
   border-color: #eee #eee #eee;
@@ -4366,6 +4371,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   .navbar-nav > li > a {
     padding-top: 15px;
     padding-bottom: 15px;
+    padding-left: 20px;
   }
 }
 .navbar-form {
@@ -5457,8 +5463,8 @@ button.list-group-item-danger.active:focus {
   background-color: #fff;
   border: 1px solid transparent;
   border-radius: 4px;
-  -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, .05);
-          box-shadow: 0 1px 1px rgba(0, 0, 0, .05);
+  /* -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, .05); */
+  /* box-shadow: 0 1px 1px rgba(0, 0, 0, .05); */
 }
 .panel-body {
   padding: 15px;
@@ -5466,8 +5472,8 @@ button.list-group-item-danger.active:focus {
 .panel-heading {
   padding: 10px 15px;
   border-bottom: 1px solid transparent;
-  border-top-left-radius: 3px;
-  border-top-right-radius: 3px;
+  /* border-top-left-radius: 3px; */
+  /* border-top-right-radius: 3px; */
 }
 .panel-heading > .dropdown .dropdown-toggle {
   color: inherit;
@@ -5688,12 +5694,13 @@ button.list-group-item-danger.active:focus {
   border-bottom: 1px solid #ddd;
 }
 .panel-default {
-  border-color: #ddd;
+  /* border-color: #ddd; */
 }
 .panel-default > .panel-heading {
-  color: #333;
-  background-color: #f5f5f5;
-  border-color: #ddd;
+  color: #fff;
+  background-color: #80bfe6;
+  /* border-color: #ddd; */
+  margin-top: 10px;
 }
 .panel-default > .panel-heading + .panel-collapse > .panel-body {
   border-top-color: #ddd;

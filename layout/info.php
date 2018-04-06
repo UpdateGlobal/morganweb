@@ -14,8 +14,13 @@
 			<h3 class="ptsans info">RECONOCIDOS</h3>
 			<h3 class="ptsans info_title"><span class="info_text2">CORREDORES </span> DE SEGUROS</h3>
 			<h3 class="ptsans info">EN LIMA - PERÚ</h3>
-			<p class="info_subtext">Somos Lorem ipsum dolor, consectetur adipisicing elit, do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim , quis nostrud exercitation  laboris.</p>
-			
+			<p class="info_subtext text-justify hidden-sm hidden-xs">Somos Lorem ipsum dolor, consectetur adipisicing elit, do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim , quis nostrud exercitation  laboris.</p>
+		</div>
+	</div>
+
+	<div class="row hidden-md hidden-lg">
+		<div class="col-md-12">
+			<p class="info_subtext2 text-justify">Somos Lorem ipsum dolor, consectetur adipisicing elit, do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim , quis nostrud exercitation  laboris.</p>
 		</div>
 	</div>
 </div>

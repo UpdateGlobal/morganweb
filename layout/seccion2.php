@@ -1,4 +1,4 @@
-<div class="container-fluid tab_backcolor">
+<div class="container-fluid tab_backcolor" id="seccion">
 	<div class="row hidden-xs hidden-sm" align="center">
 		<div class="col-md-6 col-sm-6 col-xs-6 seccion_emp" align="right">
 			<a href="#empresa" aria-controls="profile" role="tab" data-toggle="tab">
@@ -42,45 +42,45 @@
 				<div class="panel-heading" role="tab" id="headingOne">
 					<h4 class="panel-title">
 					<a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
-					Productos Empresas
+						<img src="img/factory.png" width="30"> <span>Productos Empresas</span>	
 					</a>
 					</h4>
 				</div>
 					<div id="collapseOne" class="panel-collapse collapsing" role="tabpanel" aria-labelledby="headingOne">
 						<div class="panel-body">
 							<ul class="nav nav-tabs nav-stacked" role="tablist" aria-labelledby="menuproducosempresa">
-								<li role="presentation"><a style="color: black;" href="#empresamultiriesgo"  data-toggle="tab">Multiriesgo Patrimoniales</a></li>
-								<li class="dropdown" role="presentation"><a href="#" class="dropdown-toggle " data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Colaboradores</a>
+								<li role="presentation"><a style="color: #969696;" href="#empresamultiriesgo"  data-toggle="tab">Multiriesgo Patrimoniales</a></li>
+								<li class="dropdown" role="presentation"><a href="#" style="color: #969696;" class="dropdown-toggle " data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Colaboradores</a>
 									<ul class="dropdown-menu" style="position: relative;">
-									<li><a href="#eps" data-toggle="tab"><i class="fas fa-angle-double-right vineta_sty"></i><span> </span> Eps</a></li>
-									<li><a href="#vidaley" data-toggle="tab"><i class="fas fa-angle-double-right vineta_sty"></i><span> </span> Vida Ley</a></li>
-									<li><a href="#sctr" data-toggle="tab"><i class="fas fa-angle-double-right vineta_sty"></i><span> </span> Scrt</a></li>
+									<li><a style="color: #969696;" href="#eps" data-toggle="tab"><i class="fas fa-angle-double-right vineta_sty"></i><span> </span> Eps</a></li>
+									<li><a style="color: #969696;" href="#vidaley" data-toggle="tab"><i class="fas fa-angle-double-right vineta_sty"></i><span> </span> Vida Ley</a></li>
+									<li><a style="color: #969696;" href="#sctr" data-toggle="tab"><i class="fas fa-angle-double-right vineta_sty"></i><span> </span> Scrt</a></li>
 									</ul>
 								</li>
-								<li role="presentation"><a style="color: black;" href="#empretransporte"  data-toggle="tab">Transporte</a></li>
-								<li role="presentation"><a style="color: black;" href="#casempre"  data-toggle="tab">Car</a></li>
-								<li role="presentation"><a style="color: black;" href="#earempre"  data-toggle="tab">EAR Empresa</a></li>
-								<li role="presentation"><a style="color: black;" href="#trecempresa"  data-toggle="tab">Trec Empresa</a></li>
-								<li role="presentation"><a style="color: black;" href="#responempresa"  data-toggle="tab">Responsabilidad Civil</a></li>
-								<li role="presentation"><a style="color: black;" href="#causcionempresa"  data-toggle="tab">Caucion / Carta finanza</a></li>
-								<li role="presentation"><a style="color: black;" href="#cascos"  data-toggle="tab">Cascos</a></li>
-								<li role="presentation"><a style="color: black;" href="#vehiculosempre"  data-toggle="tab">Vehiculos</a></li>
+								<li role="presentation"><a style="color: #969696;" href="#empretransporte"  data-toggle="tab">Transporte</a></li>
+								<li role="presentation"><a style="color: #969696;" href="#casempre"  data-toggle="tab">Car</a></li>
+								<li role="presentation"><a style="color: #969696;" href="#earempre"  data-toggle="tab">EAR Empresa</a></li>
+								<li role="presentation"><a style="color: #969696;" href="#trecempresa"  data-toggle="tab">Trec Empresa</a></li>
+								<li role="presentation"><a style="color: #969696;" href="#responempresa"  data-toggle="tab">Responsabilidad Civil</a></li>
+								<li role="presentation"><a style="color: #969696;" href="#causcionempresa"  data-toggle="tab">Caucion / Carta finanza</a></li>
+								<li role="presentation"><a style="color: #969696;" href="#cascos"  data-toggle="tab">Cascos</a></li>
+								<li role="presentation"><a style="color: #969696;" href="#vehiculosempre"  data-toggle="tab">Vehiculos</a></li>
 							</ul>
 						</div>
 					</div>
 			</div>
 				<div class="panel panel-default">
-					<div class="panel-heading" role="tab" id="headintwo">
+					<!-- <div class="panel-heading" role="tab" id="headintwo">
 						<h4 class="panel-title">
 						<a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapsetwo" aria-expanded="false" aria-controls="collapseOne">
 						Servicios Empresas
 						</a>
 						</h4>
-					</div>
+					</div> -->
 					<div id="collapsetwo" class="panel-collapse collapsing" role="tabpanel" aria-labelledby="headintwo">
 						<div class="panel-body">
 							<ul class="nav nav-tabs nav-stacked" role="tablist" aria-labelledby="menuproducosempresa">
-							<li role="presentation" class="active"><a style="color: black;" href="#empresamultiriesgo"  data-toggle="tab">Multiriesgo Patrimoniales</a></li>
+							<li role="presentation" class="active"><a class="active" style="color: #969696;" href="#empresamultiriesgo"  data-toggle="tab">Multiriesgo Patrimoniales</a></li>
 							<li class="dropdown" role="presentation"><a href="#" class="dropdown-toggle " data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Colaboradores</a>
 							<ul class="dropdown-menu" style="position: relative;">
 							<li><a href="#eps" data-toggle="tab"><i class="fas fa-angle-double-right"></i><span> </span> Eps</a></li>
@@ -94,9 +94,9 @@
 				</div>
 			</div>
 		</div>
-		<div class="col-sm-6 ">
+		<div class="col-sm-6 ser_back">
 			<div class="tab-content">
-				<div role="tabpanel" class="tab-pane" id="empresamultiriesgo"><?php include 'set.php'; ?></div>
+				<div role="tabpanel" class="tab-pane active" id="empresamultiriesgo"><?php include 'set.php'; ?></div>
 				<div role="tabpanel" class="tab-pane" id="eps"><?php include 'set.php'; ?></div>
 				<div role="tabpanel" class="tab-pane" id="vidaley"><?php include 'set.php'; ?></div>
 				<div role="tabpanel" class="tab-pane" id="sctr"><?php include 'set.php'; ?></div>
@@ -110,9 +110,12 @@
 				<div role="tabpanel" class="tab-pane" id="vehiculosempre"><?php include 'set.php'; ?></div>
 			</div>
 		</div>
-		<div class="col-sm-3 ">
-			<p><b>¿Necesitas más información?</b></p>
-			<p>Bríndanos tus datos y te contactaremos a la brevedad</p>
+		<div class="col-sm-3 ser_back">
+			<div class="row">
+				<br>
+				<b>¿Necesitas más información?</b>
+				<p>Bríndanos tus datos y te contactaremos a la brevedad</p>
+			</div>
 			<form>
 				<div class="form-group">
 					<input type="text" class="form-control" id="" placeholder="Nombre y Apellidos">
@@ -159,19 +162,19 @@
 				<div class="panel-heading" role="tab" id="headingOne">
 					<h4 class="panel-title">
 					<a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTree" aria-expanded="false" aria-controls="collapseOne">
-					Productos personas
+							<img src="img/study.png" width="34"> <span>Productos Personas</span> 
 					</a>
 					</h4>
 				</div>
 					<div id="collapseTree" class="panel-collapse collapsing" role="tabpanel" aria-labelledby="headingOne">
 						<div class="panel-body">
 							<ul class="nav nav-tabs nav-stacked" role="tablist" aria-labelledby="menuproducosempresa">
-								<li role="presentation"><a style="color: black;" href="#persona_salud"  data-toggle="tab">Salud</a></li>
-								<li role="presentation"><a style="color: black;" href="#persona_onco"  data-toggle="tab">Oncologico</a></li>
-								<li role="presentation"><a style="color: black;" href="#persona_vehiculo"  data-toggle="tab">Vehiculo</a></li>
-								<li role="presentation"><a style="color: black;" href="#persona_vida"  data-toggle="tab">Seguro de Vida</a></li>
-								<li role="presentation"><a style="color: black;" href="#persona_hogar"  data-toggle="tab">Seguro de Hogar</a></li>
-								<li role="presentation"><a style="color: black;" href="#persona_viajes"  data-toggle="tab">Seguro de Viajes</a></li>
+								<li role="presentation"><a style="color: #969696;" href="#persona_salud"  data-toggle="tab">Salud</a></li>
+								<li role="presentation"><a style="color: #969696;" href="#persona_onco"  data-toggle="tab">Oncologico</a></li>
+								<li role="presentation"><a style="color: #969696;" href="#persona_vehiculo"  data-toggle="tab">Vehiculo</a></li>
+								<li role="presentation"><a style="color: #969696;" href="#persona_vida"  data-toggle="tab">Seguro de Vida</a></li>
+								<li role="presentation"><a style="color: #969696;" href="#persona_hogar"  data-toggle="tab">Seguro de Hogar</a></li>
+								<li role="presentation"><a style="color: #969696;" href="#persona_viajes"  data-toggle="tab">Seguro de Viajes</a></li>
 							</ul>
 						</div>
 					</div>
@@ -181,7 +184,7 @@
 
 	    			</div>
 	    		
-				    			<div class="col-sm-6 ">
+				    			<div class="col-sm-6 ser_back">
 			 
 				    				<div class="tab-content">
 									    <div role="tabpanel" class="tab-pane" id="persona_salud"><?php include 'set.php'; ?></div>
@@ -192,8 +195,9 @@
 										<div role="tabpanel" class="tab-pane" id="persona_viajes"><?php include 'set.php'; ?></div>
 									</div>
 				    			</div>
-							    			<div class="col-sm-3 ">
-							    				<p><b>¿Necesitas más información?</b></p>
+							    			<div class="col-sm-3 ser_back">
+							    				<br>
+							    				<b>¿Necesitas más información?</b>
 							    				<p>Bríndanos tus datos y te contactaremos a la brevedad</p>
 							    				<form>
 												  <div class="form-group">

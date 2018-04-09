@@ -2551,19 +2551,19 @@ output {
   display: block;
   width: 100%;
   height: 30px;
-  padding: 25px 20px;
+  padding: 15px 20px;
   font-size: 10px;
   line-height: 1.428571;
-  color: #99a0be;
+  /* color: #99a0be; */
   background-color: #fff;
   background-image: none;
-  border: 1px solid #ccc;
+  /* border: 1px solid #ccc; */
   /* border-radius: 4px; */
-  -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075);
-  box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075);
-  -webkit-transition: border-color ease-in-out .15s, -webkit-box-shadow ease-in-out .15s;
+  /* -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075); */
+  /* box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075); */
+  /* -webkit-transition: border-color ease-in-out .15s, -webkit-box-shadow ease-in-out .15s; */
   -o-transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
-  transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+  /* transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s; */
 }
 .form-control:focus {
   border-color: #66afe9;
@@ -4306,7 +4306,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   padding: 9px 10px;
   margin-top: 20px;
   margin-right: 15px;
-  margin-bottom: 8px;
+  margin-bottom: 15px;
   background-color: #fff;
   background-image: none;
   border: 1px solid #13208f;
@@ -4518,7 +4518,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   color: #777;
 }
 .navbar-default .navbar-nav > li > a {
-  color: #51c1e9;
+  color: #ffffff;
 }
 .navbar-default .navbar-nav > li > a:hover,
 .navbar-default .navbar-nav > li > a:focus {
@@ -5700,10 +5700,11 @@ button.list-group-item-danger.active:focus {
   color: #fff;
   background-color: #80bfe6;
   /* border-color: #ddd; */
-  margin-top: 10px;
+  /* margin-top: 10px; */
 }
 .panel-default > .panel-heading + .panel-collapse > .panel-body {
-  border-top-color: #ddd;
+  border-top-color: #7fc0e6;
+  font-weight: 450;
 }
 .panel-default > .panel-heading .badge {
   color: #f5f5f5;
@@ -6255,7 +6256,7 @@ button.close {
   position: relative;
   width: 100%;
   overflow: hidden;
-  margin-top: -80px;
+  /* margin-top: -80px; */
 }
 .carousel-inner > .item {
   position: relative;
@@ -6467,7 +6468,7 @@ button.close {
   .carousel-caption {
     /* right: 42%; */
     /* left: 60%; */
-    padding-bottom: 160px;
+    padding-bottom: 130px;
   }
   .carousel-indicators {
     bottom: 20px;

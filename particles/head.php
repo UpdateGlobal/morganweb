@@ -12,6 +12,7 @@
     <link href="css/font-awesome.css" rel="stylesheet">
     <link href="css/normalize.css" rel="stylesheet">
     <link href="css/style.css" rel="stylesheet">
+    <link rel="stylesheet" href="css/styles.css">
     <link href="" rel="stylesheet">
 
     <!--iconos-->

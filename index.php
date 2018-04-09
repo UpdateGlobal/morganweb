@@ -4,6 +4,11 @@
 ?>
 <body>
 
+<div class="headeres">
+  <div class="progress-container">
+    <div class="progress-bar" id="myBar"></div>
+  </div>  
+</div>
 
 
 <?php

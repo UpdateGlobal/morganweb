@@ -1,5 +1,5 @@
 <div class="hidden-md hidden-lg">
-<div class="container-fluid backslide img-responsive sjdghjreg" >
+<div class="container-fluid backslide img-responsive sjdghjreg"  style="background-image: url('img/bitmap.jpg');" >
   <div class="row" align="center">
     <div class="col-md-6 col-md-offset-6" >
       <h1 class="slogan2">LA SEGURIDAD <br>ES <span class="text2">FELICIDAD</span></h1>
@@ -14,7 +14,7 @@
 
 
 
-<div class=" hidden-xs hidden-sm">
+<div class="hidden-xs hidden-sm">
 
 <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
   <!-- Indicators -->
@@ -29,7 +29,6 @@
     <div class="item active">
       <img src="img/bitmap@2x.jpg" alt="...">
       <div class="carousel-caption bnr_conte" align="right">
-        <img src="img/morgansinletra.png">
         <h1 class="slogan">LA SEGURIDAD <br>ES <span class="text2">FELICIDAD</span></h1>
         <p class="bnr_text">Encuentras el seguro que necesitas</p>
       </div>

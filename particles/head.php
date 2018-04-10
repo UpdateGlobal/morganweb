@@ -5,6 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Morgan &amp; Asociados: Corredores de Seguros</title>
+     <link id="favicon" rel="shortcut icon" href="img/coin.png"  />
 
     <!-- Bootstrap -->
     <link href="css/bootstrap.css" rel="stylesheet">

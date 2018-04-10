@@ -9,8 +9,8 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand hidden-xs hidden-sm" href="#"><img src="img/morgan-letra-blanca.png"  class="img-responsive imglogo" ></a>
-      <a class="navbar-brand hidden-md hidden-lg" href="#"><img src="img/morgan-logo-mobile.png"  class="img-responsive" ></a>
+      <a class="navbar-brand hidden-xs hidden-sm" href="#"><img src="img/morgan-letra-blanca.png"  class="img-responsive" ></a>
+      <a class="navbar-brand hidden-md hidden-lg" href="#"><img src="img/morgan-logo-mobile.png"  class="img-responsive logomovil" ></a>
     </div>
 
     <!-- Collect the nav links, forms, and other content for toggling -->

@@ -1,7 +1,8 @@
 <div class="container-fluid owl_backcolor">
     <div class="container">
             <div class="row" align="center">
-                <h3 class="ptsans owl_title"><span class="info_text2">Aseguradoras </span></h3>
+              
+                <h3 class="ptsans info owl_title">Aseguradoras</h3>
             </div>
         <div class="owl-carousel owl-theme owl_mp">
             <div class="item"><img  src="img/1.jpg" class="owl_img"></div>

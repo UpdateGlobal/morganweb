@@ -16,12 +16,12 @@
 	<div class="row hidden-md hidden-lg" align="center">
 		<div class="col-md-6 col-sm-6 col-xs-6 seccion_emp" align="right">
 			<a href="#empresa" aria-controls="profile" role="tab" data-toggle="tab">
-			<img src="img/factory.png">
+			<img src="img/factory.png" style="width: 50px;">
 			</a>	
 		</div>
 		<div class="col-md-6 col-sm-6 col-xs-6 seccion_per" align="left">
 			<a href="#personas" aria-controls="messages" role="tab" data-toggle="tab">
-			<img src="img/study.png">
+			<img src="img/study.png" style="width: 56px;">
 			</a>
 		</div>
 	</div>

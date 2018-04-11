@@ -19,8 +19,8 @@
                         </div>
                     </div>
                     <div class="card-footer">
-                        <span class="float-right">Fecha de Publicacions  12/04/2018</span>
-                        <p class="btn">Leer Mas</p>
+                        <span class="float-right">Fecha  12/04/2018</span>
+                        <p class="card_btn">Leer Mas</p>
                     </div>
                 </div>
             </div>
@@ -34,8 +34,8 @@
                         </div>
                     </div>
                     <div class="card-footer">
-                        <span class="float-right">Fecha de Publicacions  12/04/2018</span>
-                        <p class="btn">Leer Mas</p>
+                        <span class="float-right">Fecha  12/04/2018</span>
+                        <p class="card_btn">Leer Mas</p>
                     </div>
                 </div>
             </div>
@@ -49,8 +49,8 @@
                         </div>
                     </div>
                     <div class="card-footer">
-                        <span class="float-right">Fecha de Publicacions  12/04/2018</span>
-                        <p class="btn">Leer Mas</p>
+                        <span class="float-right">Fecha  12/04/2018</span>
+                        <p class="card_btn">Leer Mas</p>
                     </div>
                 </div>
             </div>

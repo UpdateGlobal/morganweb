@@ -130,7 +130,7 @@
 					<input type="text" class="form-control" id="" placeholder="Telefono">
 				</div>
 				<div class="form-group">
-					<textarea class="form-control">Comentario</textarea>
+					<textarea class="form-control">Comentarios</textarea>
 				</div>
 					<button type="submit" class="btn seccion_btn_info2">Necesito más información</button>
 			</form>
@@ -187,7 +187,7 @@
 				    			<div class="col-sm-6 ser_back">
 			 
 				    				<div class="tab-content">
-									    <div role="tabpanel" class="tab-pane" id="persona_salud"><?php include 'set.php'; ?></div>
+									    <div role="tabpanel" class="tab-pane active" id="persona_salud"><?php include 'set.php'; ?></div>
 									    <div role="tabpanel" class="tab-pane" id="persona_onco"><?php include 'set.php'; ?></div>
 									    <div role="tabpanel" class="tab-pane" id="persona_vehiculo"><?php include 'set.php'; ?></div>
 									    <div role="tabpanel" class="tab-pane" id="persona_vida"><?php include 'set.php'; ?></div>

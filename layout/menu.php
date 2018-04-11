@@ -10,7 +10,7 @@
         <span class="icon-bar"></span>
       </button>
       <a class="navbar-brand hidden-xs hidden-sm" href="#"><img src="img/morgan-letra-blanca.png"  class="img-responsive" ></a>
-      <a class="navbar-brand hidden-md hidden-lg" href="#"><img src="img/morgan-logo-mobile.png"  class="img-responsive logomovil" ></a>
+      <a class="navbar-brand hidden-md hidden-lg" href="#"><img src="img/white.png"  class="img-responsive logomovil" ></a>
     </div>
 
     <!-- Collect the nav links, forms, and other content for toggling -->
@@ -33,12 +33,10 @@
      
       <ul class="nav navbar-nav navbar-right smooth-scroll">
               <li><a class="menu_coliten smoothScroll"  href="index.php">Inicio</a></li>
-              <li><a class="menu_coliten smoothScroll"  href="servicios.php">Servicios</a></li>
               <li><a class="menu_coliten smoothScroll"  href="nosotros.php">Nosotros</a></li>
-              <li><a class="menu_coliten smoothScroll"  href="index.php#seccion">Empresas</a></li>
-              <li><a class="menu_coliten smoothScroll"  href="index.php#seccion">Personas</a></li>
+              <li><a class="menu_coliten smoothScroll"  href="index.php#seccion">Servicios</a></li>
               <li><a class="menu_coliten smoothScroll"  href="blog.php">Blog</a></li>
-              <li><a class="menu_coliten smoothScroll"  href="#">Contacto</a></li>
+              <li><a class="menu_coliten smoothScroll"  href="index.php#contac">Contacto</a></li>
       </ul>
     </div><!-- /.navbar-collapse -->
   </div><!-- /.container-fluid -->

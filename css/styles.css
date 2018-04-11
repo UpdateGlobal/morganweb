@@ -136,7 +136,7 @@ img {
 }
 
 p {
-    margin: 0 0 20px;
+    margin: 20px 0 20px;
 }
 
 h1,
@@ -3050,7 +3050,7 @@ div#sticker {
     font-size: 22px;
     margin-bottom: 15px !important;
     padding-bottom: 10px;
-    font-weight: 300;
+    font-weight: 600;
 }
 
 .main-news-page-section-area .news-page-content-section-area .single-news-area .news-body h3:after {
@@ -3138,7 +3138,7 @@ div#sticker {
     position: relative;
     text-transform: uppercase;
     margin-bottom: 30px;
-    font-weight: 300;
+    font-weight: 600;
 }
 
 .page-sidebar-area .single-sidebar h3:after {
@@ -3192,7 +3192,7 @@ div#sticker {
 }
 
 .page-sidebar-area .single-sidebar ul li a {
-    color: #000000;
+    color: #9e9ea3;
     text-decoration: none;
     display: block;
     padding: 8px 0;
@@ -3355,7 +3355,8 @@ div#sticker {
 }
 
 .news-title {
-    margin: 22px 0 6px !important;
+    margin: -20px 0 6px !important;
+    font-size: 72px;
 }
 
 

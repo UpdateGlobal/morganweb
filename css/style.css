@@ -458,6 +458,29 @@
 }
 
 /*CARD SECCION*/
+.card_btn{
+    padding: 6px 12px;
+    margin-bottom: 0;
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 1.42857143;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    -ms-touch-action: manipulation;
+    touch-action: manipulation;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    background-image: none;
+    border: 1px solid #50c2e9;
+    /* border-radius: 4px; */
+}
+
+
+
 .mb{
 	margin-top: 40px;
 }
@@ -572,3 +595,82 @@
 .meta a:hover {
     color: rgba(0, 0, 0, .87);
 }
+
+/*SECCION CONTACTO*/
+
+.seccion_btn_cont {
+    padding: 10px;
+    width: 48%;
+    background-color: #13208f;
+    color: white;
+}
+
+.m{margin-bottom: 50px;}
+
+.contac_info{
+    font-size: 20px;
+    color: #50c2e9;
+    font-weight: normal;
+    font-stretch: normal;
+    line-height: 2.15;
+    letter-spacing: 0.4px;
+    text-align: center;
+    margin: -10px 0px -10px;
+}
+
+.item_contac{
+	margin: 0px;
+    line-height: 36px;
+    font-size: 16px;
+    color: #9e9ea3;
+}
+ .icon_contac{margin: 12px 10px 0px;font-size: 28px;color: 797979;}
+
+
+/*PAGEBLOG*/
+
+.blog_text {
+    color: #9e9ea3;
+    font-size: 14px;
+    margin: -15px 0px 10px;
+}
+
+
+.blog_icon_color{
+
+	color: #50c2e9;
+}
+
+
+.blog_btn{
+    display: inline-block;
+    padding: 6px 12px;
+    margin-bottom: 0;
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 1.42857143;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    -ms-touch-action: manipulation;
+    touch-action: manipulation;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    background-image: none;
+    border: 1px solid #50c2e9;
+    /* border-radius: 4px; */
+}
+
+
+
+
+
+
+
+
+
+
+

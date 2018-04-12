@@ -11,7 +11,7 @@
 
             <div class="col-sm-6 col-md-3 col-lg-4">
                 <div class="card">
-                    <img class="card-img-top" src="http://via.placeholder.com/800x400">
+                    <img class="card-img-top" src="img/blog/blog1.jpg">
                     <div class="card-block">
                         <h3 class="ptsans info">Titulo de Noticia</h3>
                         <div class="card-text">
@@ -26,7 +26,7 @@
             </div>
             <div class="col-sm-6 col-md-3 col-lg-4">
                 <div class="card">
-                    <img class="card-img-top" src="http://via.placeholder.com/800x400">
+                    <img class="card-img-top" src="img/blog/blog2.jpg">
                     <div class="card-block">
                         <h3 class="ptsans info">Titulo de Noticia</h3>
                         <div class="card-text">
@@ -41,7 +41,7 @@
             </div>
             <div class="col-sm-6 col-md-3 col-lg-4">
                 <div class="card">
-                    <img class="card-img-top" src="http://via.placeholder.com/800x400">
+                    <img class="card-img-top" src="img/blog/blog3.jpg">
                     <div class="card-block">
                         <h3 class="ptsans info">Titulo de Noticia</h3>
                         <div class="card-text">

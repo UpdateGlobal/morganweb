@@ -9,8 +9,8 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand hidden-xs hidden-sm" href="index.php"><img src="img/white.png"  class="img-responsive" ></a>
-      <a class="navbar-brand hidden-md hidden-lg" href="inde.php"><img src="img/white.png"  class="img-responsive logomovil" ></a>
+      <a class="navbar-brand hidden-xs hidden-sm" href="index.php"><img src="img/logomorgan.png"  class="img-responsive" ></a>
+      <a class="navbar-brand hidden-md hidden-lg" href="inde.php"><img src="img/logomorgan.png"  class="img-responsive logomovil" ></a>
     </div>
 
     <!-- Collect the nav links, forms, and other content for toggling -->

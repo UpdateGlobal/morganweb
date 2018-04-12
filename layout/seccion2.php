@@ -22,7 +22,7 @@
 					</div>
 					<div class="col-md-9 zero">
 						<br><br>
-						<span>Soy Una PERSONAS</span>	
+						<span>Soy Una PERSONA</span>	
 					</div>
 				</div>	
 		</div>
@@ -40,7 +40,7 @@
 			<a href="#personas" aria-controls="messages" role="tab" data-toggle="tab">
 			<i class="far fa-user-circle fa-5x seccion_icons"></i>
 			<br>
-			<span class="center_iten2">Soy Una PERSONAS</span>
+			<span class="center_iten2">Soy Una PERSONA</span>
 			</a>
 		</div>
 	</div>

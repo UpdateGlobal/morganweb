@@ -1,27 +1,46 @@
 <div class="container-fluid tab_backcolor" id="seccion">
 	<div class="row hidden-xs hidden-sm" align="center">
 		<div class="col-md-6 col-sm-6 col-xs-6 seccion_emp" align="right">
-			<a href="#empresa" aria-controls="profile" role="tab" data-toggle="tab">
-			<span class="center_iten ">Soy Una EMPRESA</span>	
-			<img src="img/factory.png">		
-			</a>	
+			<div class="row">
+				<div class="col-md-9 zero">
+					<a href="#empresa" aria-controls="profile" role="tab" data-toggle="tab">
+					<br><br>
+					<span class="seccion_icon">Soy Una EMPRESA</span>
+					</a>
+				</div>
+				<div class="col-md-3">
+					<i class="far fa-building fa-5x seccion_icon"></i>	
+				</div>
+			</div>
 		</div>
 		<div class="col-md-6 col-sm-6 col-xs-6 seccion_per" align="left">
-			<a href="#personas" aria-controls="messages" role="tab" data-toggle="tab">
-			<img src="img/study.png">	<span class="center_iten">Soy Una PERSONAS</span>	
-			</a>
+				<div class="row">
+					<div class="col-md-3">
+						<a href="#personas" aria-controls="messages" role="tab" data-toggle="tab">
+							<i class="far fa-user-circle fa-5x seccion_icon"></i>
+						</a>
+					</div>
+					<div class="col-md-9 zero">
+						<br><br>
+						<span>Soy Una PERSONAS</span>	
+					</div>
+				</div>	
 		</div>
 	</div>
 
 	<div class="row hidden-md hidden-lg" align="center">
-		<div class="col-md-6 col-sm-6 col-xs-6 seccion_emp" align="right">
+		<div class="col-md-6 col-sm-6 col-xs-6 seccion_emp" align="center">
 			<a href="#empresa" aria-controls="profile" role="tab" data-toggle="tab">
-			<img src="img/factory.png" style="width: 50px;">
+			<i class="far fa-building fa-5x seccion_icons"></i>
+			<br>
+			<span class="center_iten2">Soy Una EMPRESA</span>	
 			</a>	
 		</div>
-		<div class="col-md-6 col-sm-6 col-xs-6 seccion_per" align="left">
+		<div class="col-md-6 col-sm-6 col-xs-6 seccion_per" align="center">
 			<a href="#personas" aria-controls="messages" role="tab" data-toggle="tab">
-			<img src="img/study.png" style="width: 56px;">
+			<i class="far fa-user-circle fa-5x seccion_icons"></i>
+			<br>
+			<span class="center_iten2">Soy Una PERSONAS</span>
 			</a>
 		</div>
 	</div>
@@ -33,7 +52,7 @@
 	 <div align="center" style="padding-top: 15px; padding-bottom: 15px;">
 	  <div class="tab-content container">
 
-<div role="tabpanel" class="tab-pane active" id="empresa"><!--Empresa-->
+<div role="tabpanel" class="tab-pane active" id="seccion"><!--Empresa-->
 	<div class="container">
 		<div class="row">
 		<div class="col-sm-3" align="left">
@@ -42,7 +61,7 @@
 				<div class="panel-heading" role="tab" id="headingOne">
 					<h4 class="panel-title">
 					<a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
-						<img src="img/factory.png" width="30"> <span>Productos Empresas</span>	
+						<i class="far fa-building fa-2x seccion_icon"></i> <span>Productos Empresas</span>	
 					</a>
 					</h4>
 				</div>
@@ -149,7 +168,7 @@
 
 
 
-	    <div role="tabpanel" class="tab-pane" id="personas"><!-- Personas -->
+	    <div role="tabpanel" class="tab-pane" id="seccion"><!-- Personas -->
 			<div class="container">
 	    		<div class="row">
 	    			<div class="col-sm-3" align="left">
@@ -162,7 +181,7 @@
 				<div class="panel-heading" role="tab" id="headingOne">
 					<h4 class="panel-title">
 					<a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTree" aria-expanded="false" aria-controls="collapseOne">
-							<img src="img/study.png" width="34"> <span>Productos Personas</span> 
+					<i class="far fa-user-circle fa-2x seccion_icons"></i> <span>Productos Personas</span> 
 					</a>
 					</h4>
 				</div>

@@ -24,7 +24,7 @@
                             </div>
                             <div class="col-lg-7 col-md-7 col-sm-7 col-xs-12">
                                 <div class="media-body news-body">
-                                    <h3 class="media-heading"><i class="fas fa-book blog_icon_color"></i>  <a href="#">Titulo del Post</a></h3>
+                                    <h3 class="ptsans info_blog"><i class="fas fa-book blog_icon_color"> </i> Titulo del Post</h3>
                                     <p class="meta">10 Abril, 2018 / Creado por luis Bernal</p>
                                     <p class="blog_text">Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin commodo. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus. </p>
                                     <div class="read-more blog_btn">
@@ -41,7 +41,7 @@
                             </div>
                             <div class="col-lg-7 col-md-7 col-sm-7 col-xs-12">
                                 <div class="media-body news-body">
-                                    <h3 class="media-heading"><i class="fas fa-book blog_icon_color"></i>  <a href="#">Titulo del Post</a></h3>
+                                    <h3 class="ptsans info_blog"><i class="fas fa-book blog_icon_color"> </i> Titulo del Post</h3>
                                     <p class="meta">10 Abril, 2018 / Creado por luis Bernal</p>
                                     <p class="blog_text">Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin commodo. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus. </p>
                                     <div class="read-more blog_btn">
@@ -58,7 +58,7 @@
                             </div>
                             <div class="col-lg-7 col-md-7 col-sm-7 col-xs-12">
                                 <div class="media-body news-body">
-                                    <h3 class="media-heading"><i class="fas fa-book blog_icon_color"></i>  <a href="#">Titulo del Post</a></h3>
+                                    <h3 class="ptsans info_blog"><i class="fas fa-book blog_icon_color"> </i> Titulo del Post</h3>
                                     <p class="meta">10 Abril, 2018 / Creado por luis Bernal</p>
                                     <p class="blog_text">Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin commodo. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus. </p>
                                     <div class="read-more blog_btn">
@@ -75,7 +75,7 @@
                             </div>
                             <div class="col-lg-7 col-md-7 col-sm-7 col-xs-12">
                                 <div class="media-body news-body">
-                                    <h3 class="media-heading"><i class="fas fa-book blog_icon_color"></i>  <a href="#">Titulo del Post</a></h3>
+                                    <h3 class="ptsans info_blog"><i class="fas fa-book blog_icon_color"> </i> Titulo del Post</h3>
                                     <p class="meta">10 Abril, 2018 / Creado por luis Bernal</p>
                                     <p class="blog_text">Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin commodo. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus. </p>
                                     <div class="read-more blog_btn">

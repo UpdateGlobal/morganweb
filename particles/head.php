@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -17,8 +17,7 @@
     <link href="" rel="stylesheet">
 
     <!--iconos-->
-    <script defer src="https://use.fontawesome.com/releases/v5.0.8/js/solid.js"></script>
-	<script defer src="https://use.fontawesome.com/releases/v5.0.8/js/fontawesome.js"></script>
+  <script defer src="https://use.fontawesome.com/releases/v5.0.10/js/all.js" integrity="sha384-slN8GvtUJGnv6ca26v8EzVaR9DC58QEwsIk9q1QXdCU8Yu8ck/tL/5szYlBbqmS+" crossorigin="anonymous"></script>
 
     <!--owl.carosoul-->
     <link rel="stylesheet" href="css/owl.carousel.css">

@@ -20,7 +20,7 @@
 
 	<div class="row hidden-md hidden-lg">
 		<div class="col-md-12">
-			<p class="info_subtext2 text-justify">Somos Lorem ipsum dolor, consectetur adipisicing elit, do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim , quis nostrud exercitation  laboris.</p>
+			<p class="info_subtext2 text-justify ptsans">Somos Lorem ipsum dolor, consectetur adipisicing elit, do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim , quis nostrud exercitation  laboris.</p>
 		</div>
 	</div>
 </div>

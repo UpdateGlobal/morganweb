@@ -15,7 +15,7 @@
 
 
 		<div class="row ">
-			<div class="col-md-8">
+			<div class="col-md-8" align="center">
 				<form>
 				  <div class="col-md-6 form-group">
 				    <input type="text" class="form-control" id="exampleInputEmail1" placeholder="Nombre">
@@ -41,9 +41,9 @@
 			<div class="col-md-4">
 				<!-- <h3 class="ptsans contac_info">Aseguradoras</h3> -->
 				<ul class="item_contac">
-					<li class=""><i class="icon_contac fas fa-map-marker-alt"></i> <span style="margin-left: 11px;">Direccion: xxxxxxxxxxxxxxxxxx</span></li>
-					<li class=""><i class="icon_contac fas fa-mobile-alt"></i> <span style="margin-left: 14px;">Telefonos: 999-888-777</span></li>
-					<li class=""><i class="icon_contac fas fa-envelope"></i><span style="margin-left: 7px;">Correo: lorenipsum@morgan.com</span> </li>
+					<li class="ptsans"><i class="icon_contac fas fa-map-marker-alt"></i> <span style="margin-left: 11px;">Direccion: xxxxxxxxxxxxxxxxxx</span></li>
+					<li class="ptsans"><i class="icon_contac fas fa-mobile-alt"></i> <span style="margin-left: 14px;">Telefonos: 999-888-777</span></li>
+					<li class="ptsans"><i class="icon_contac fas fa-envelope"></i><span style="margin-left: 7px;">Correo: lorenipsum@morgan.com</span> </li>
 				</ul>
 			</div>
 		</div>

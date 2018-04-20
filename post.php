@@ -34,12 +34,17 @@
                 <div class="col-lg-9 col-md-9 col-sm-9 col-xs-12">
                     <div class="news-page-content-section-area">
                         <div class="single-news-area">
-                        	<h3 class="news-title"><a href="single-news.html#">Finanacial News</a></h3>
+                        	<h3 class="news-title ptsans"><a href="single-news.html#">Financial News</a></h3>
                             <p class="mata">10 January, 2016 / By Admin / 01 Comment</p>
                             <a href="single-news.html#"><img class="media-object" src="img/news/6.jpg" style="width: 100%;" alt="Generic placeholder image"></a>
                             <div class="news-body">
 
-                                <p class="news-content">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nstrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nstrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa cupidatat non proident, sunt in culpa.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.</p>
+                               <p class="ptsans text-justify">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+                                    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+                                    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+                                    consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+                                    cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+                                    proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
                                
                             </div>
                         </div>
@@ -47,10 +52,10 @@
                     <div class="news-page-tag-section-area">
                         <h4>Tags</h4>
                         <ul>
-                            <li><a href="single-news.html#">Money,</a></li>
-                            <li><a href="single-news.html#"> Corporate,</a></li>
-                            <li><a href="single-news.html#">Funds,</a></li>
-                            <li><a href="single-news.html#">Investment</a></li>
+                            <li class="ptsans"><a href="single-news.html#">Money,</a></li>
+                            <li class="ptsans"><a href="single-news.html#"> Corporate,</a></li>
+                            <li class="ptsans"><a href="single-news.html#">Funds,</a></li>
+                            <li class="ptsans"><a href="single-news.html#">Investment</a></li>
                         </ul>
                     </div>
                 </div>
@@ -59,12 +64,12 @@
 	                        <div class="single-sidebar">
 	                            <h3>Categorias</h3>
 	                            <ul>
-	                                <li><a href="#">Categoria #1</a></li>
-	                                <li><a href="#">Categoria #2</a></li>
-	                                <li><a href="#">Categoria #3</a></li>
-	                                <li><a href="#">Categoria #4</a></li>
-	                                <li><a href="#">Categoria #5</a></li>
-	                                <li><a href="#">Categoria #6</a></li>
+	                                <li class="ptsans"><a href="#">Categoria #1</a></li>
+	                                <li class="ptsans"><a href="#">Categoria #2</a></li>
+	                                <li class="ptsans"><a href="#">Categoria #3</a></li>
+	                                <li class="ptsans"><a href="#">Categoria #4</a></li>
+	                                <li class="ptsans"><a href="#">Categoria #5</a></li>
+	                                <li class="ptsans"><a href="#">Categoria #6</a></li>
 	                            </ul>
 	                        </div>
 	                    </div>

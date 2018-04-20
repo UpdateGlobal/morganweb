@@ -136,7 +136,7 @@
 	color: #9e9ea3;
 	font-size: 18px;
 	text-align: center;
-	margin: 10px;
+	margin: 30px;
 	}
   
 }
@@ -159,8 +159,8 @@
 }
 
 .text_set{
-	font-size: 13px;
-	padding: 0px 50px 0px;
+	font-size: 15px;
+	padding: 0px 20px 0px;
 	line-height: 18px;
 }
 
@@ -371,7 +371,7 @@
 
 .p_tipotext{
 	font-family: PTSans-Caption;
-	margin: 10px 50px 20px;
+	margin: 0px 50px 0px;
 	font-size: 27px;
 	font-weight: normal;
 	font-style: normal;
@@ -380,6 +380,7 @@
 	letter-spacing: -0.4px;
 	text-align: center;
 	color: #51c1e9;
+	padding-top: 50px;
 }
 .p_text2{
 	padding-bottom: 30px;
@@ -389,7 +390,7 @@
 .p_bt{
 	padding-top: 0px;
 	padding-bottom: 20px;
-	letter-spacing:  10px;
+	letter-spacing: 2px;
 }
 .p_text{
 	color: #a6e5fd;
@@ -488,12 +489,14 @@
     vertical-align: middle;
     -ms-touch-action: manipulation;
     touch-action: manipulation;
+    color: white;
     cursor: pointer;
+    background-color: #50c2e9;
     -webkit-user-select: none;
     -moz-user-select: none;
     -ms-user-select: none;
     user-select: none;
-    background-image: none;
+    background-image: #50c2e9;
     border: 1px solid #50c2e9;
     /* border-radius: 4px; */
 }
@@ -522,10 +525,10 @@
 }
 
 .card-block {
-    font-size: 1em;
+    font-size: 0em;
     position: relative;
     margin: 0px;
-    padding: 2em;
+    padding: 20px;
     border: none;
     border-top: 1px solid rgba(34, 36, 38, .1);
     box-shadow: none;

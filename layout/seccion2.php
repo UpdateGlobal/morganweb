@@ -52,10 +52,10 @@
 	 <div align="center" style="padding-top: 15px; padding-bottom: 15px;">
 	  <div class="tab-content container">
 
-<div role="tabpanel" class="tab-pane active" id="seccion"><!--Empresa-->
+<div role="tabpanel" class="tab-pane active" id="empresa"><!--Empresa-->
 	<div class="container">
 		<div class="row">
-		<div class="col-sm-3" align="left">
+		<div class="col-sm-3" align="left" style="padding: 0px;">
 			<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
 			<div class="panel panel-default">
 				<div class="panel-heading" role="tab" id="headingOne">
@@ -130,7 +130,7 @@
 			</div>
 		</div>
 		<div class="col-sm-3 ser_back">
-			<div class="row">
+			<div class="row ptsant">
 				<br>
 				<b>¿Necesitas más información?</b>
 				<p>Bríndanos tus datos y te contactaremos a la brevedad</p>
@@ -168,43 +168,35 @@
 
 
 
-	    <div role="tabpanel" class="tab-pane" id="seccion"><!-- Personas -->
+	    <div role="tabpanel" class="tab-pane" id="personas"><!-- Personas -->
 			<div class="container">
 	    		<div class="row">
 	    			<div class="col-sm-3" align="left">
-
-
-
-
-	    <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
-			<div class="panel panel-default">
-				<div class="panel-heading" role="tab" id="headingOne">
-					<h4 class="panel-title">
-					<a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTree" aria-expanded="false" aria-controls="collapseOne">
-					<i class="far fa-user-circle fa-2x seccion_icons"></i> <span>Productos Personas</span> 
-					</a>
-					</h4>
-				</div>
-					<div id="collapseTree" class="panel-collapse collapsing" role="tabpanel" aria-labelledby="headingOne">
-						<div class="panel-body">
-							<ul class="nav nav-tabs nav-stacked" role="tablist" aria-labelledby="menuproducosempresa">
-								<li role="presentation"><a style="color: #969696;" href="#persona_salud"  data-toggle="tab">Salud</a></li>
-								<li role="presentation"><a style="color: #969696;" href="#persona_onco"  data-toggle="tab">Oncologico</a></li>
-								<li role="presentation"><a style="color: #969696;" href="#persona_vehiculo"  data-toggle="tab">Vehiculo</a></li>
-								<li role="presentation"><a style="color: #969696;" href="#persona_vida"  data-toggle="tab">Seguro de Vida</a></li>
-								<li role="presentation"><a style="color: #969696;" href="#persona_hogar"  data-toggle="tab">Seguro de Hogar</a></li>
-								<li role="presentation"><a style="color: #969696;" href="#persona_viajes"  data-toggle="tab">Seguro de Viajes</a></li>
-							</ul>
+					    <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+							<div class="panel panel-default">
+								<div class="panel-heading" role="tab" id="headingOne">
+									<h4 class="panel-title">
+									<a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTree" aria-expanded="false" aria-controls="collapseOne">
+									<i class="far fa-user-circle fa-2x seccion_icons"></i> <span>Productos Personas</span> 
+									</a>
+									</h4>
+								</div>
+									<div id="collapseTree" class="panel-collapse collapsing" role="tabpanel" aria-labelledby="headingOne">
+										<div class="panel-body">
+											<ul class="nav nav-tabs nav-stacked" role="tablist" aria-labelledby="menuproducosempresa">
+												<li role="presentation"><a style="color: #969696;" href="#persona_salud"  data-toggle="tab">Salud</a></li>
+												<li role="presentation"><a style="color: #969696;" href="#persona_onco"  data-toggle="tab">Oncologico</a></li>
+												<li role="presentation"><a style="color: #969696;" href="#persona_vehiculo"  data-toggle="tab">Vehiculo</a></li>
+												<li role="presentation"><a style="color: #969696;" href="#persona_vida"  data-toggle="tab">Seguro de Vida</a></li>
+												<li role="presentation"><a style="color: #969696;" href="#persona_hogar"  data-toggle="tab">Seguro de Hogar</a></li>
+												<li role="presentation"><a style="color: #969696;" href="#persona_viajes"  data-toggle="tab">Seguro de Viajes</a></li>
+											</ul>
+										</div>
+									</div>
+							</div>
 						</div>
-					</div>
-			</div>
-		</div>
-
-
 	    			</div>
-	    		
-				    			<div class="col-sm-6 ser_back">
-			 
+				    <div class="col-sm-6 ser_back">
 				    				<div class="tab-content">
 									    <div role="tabpanel" class="tab-pane active" id="persona_salud"><?php include 'set.php'; ?></div>
 									    <div role="tabpanel" class="tab-pane" id="persona_onco"><?php include 'set.php'; ?></div>
@@ -213,8 +205,8 @@
 										<div role="tabpanel" class="tab-pane" id="persona_hogar"><?php include 'set.php'; ?></div>
 										<div role="tabpanel" class="tab-pane" id="persona_viajes"><?php include 'set.php'; ?></div>
 									</div>
-				    			</div>
-							    			<div class="col-sm-3 ser_back">
+				    </div>
+					<div class="col-sm-3 ser_back">
 							    				<br>
 							    				<b>¿Necesitas más información?</b>
 							    				<p>Bríndanos tus datos y te contactaremos a la brevedad</p>
@@ -236,9 +228,8 @@
 												  </div>
 												  <button type="submit" class="btn seccion_btn_info2">Necesito más información</button>
 												</form>
-							    			</div>
-	 
-
+					</div>
+	
 	    		</div><!--row-->
 	    	</div>
 	    </div><!--Personas-->

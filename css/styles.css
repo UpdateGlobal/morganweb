@@ -177,7 +177,7 @@ a:hover {
 a:active,
 a:hover {
     outline: 0 none;
-    color: #132190;
+    color: #fff;
 }
 
 ul {
@@ -3122,6 +3122,7 @@ div#sticker {
 
 .media-object {
     margin-right: 20px;
+    width: 100%;
 }
 
 
@@ -3213,7 +3214,7 @@ div#sticker {
 
 .main-news-page-section-area .news-page-content-section-area .single-news-area .news-body {
     padding-left: 0px;
-    padding: 30px 0;
+    /* padding: 30px 0; */
 }
 
 
@@ -3222,8 +3223,10 @@ div#sticker {
 ---------------------------------------*/
 
 .main-news-page-section-area .news-page-content-section-area .single-news-area .news-body {
-    padding-left: 0px;
+    padding-left: 15px;
+    padding-right: 15px;
     padding-top: 0px;
+    padding-bottom: 15px;
 }
 
 .news-page-tag-section-area {

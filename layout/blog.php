@@ -25,8 +25,13 @@
                             <div class="col-lg-7 col-md-7 col-sm-7 col-xs-12">
                                 <div class="media-body news-body">
                                     <h3 class="ptsans info_blog"><i class="fas fa-book blog_icon_color"> </i> Titulo del Post</h3>
-                                    <p class="meta">10 Abril, 2018 / Creado por luis Bernal</p>
-                                    <p class="blog_text">Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin commodo. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus. </p>
+                                    <p class="meta ptsans">10 Abril, 2018 / Creado por luis Bernal</p>
+                                    <p class="ptsans text-justify">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+                                    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+                                    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+                                    consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+                                    cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+                                    proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
                                     <div class="read-more blog_btn">
                                         <a href="post.php">Leer Mas <i class="fas fa-arrow-right"></i></a>
                                     </div>
@@ -43,7 +48,12 @@
                                 <div class="media-body news-body">
                                     <h3 class="ptsans info_blog"><i class="fas fa-book blog_icon_color"> </i> Titulo del Post</h3>
                                     <p class="meta">10 Abril, 2018 / Creado por luis Bernal</p>
-                                    <p class="blog_text">Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin commodo. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus. </p>
+                                    <p class="ptsans text-justify">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+                                    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+                                    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+                                    consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+                                    cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+                                    proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
                                     <div class="read-more blog_btn">
                                         <a href="post.php">Leer Mas <i class="fas fa-arrow-right"></i></a>
                                     </div>
@@ -60,7 +70,12 @@
                                 <div class="media-body news-body">
                                     <h3 class="ptsans info_blog"><i class="fas fa-book blog_icon_color"> </i> Titulo del Post</h3>
                                     <p class="meta">10 Abril, 2018 / Creado por luis Bernal</p>
-                                    <p class="blog_text">Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin commodo. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus. </p>
+                                    <p class="ptsans text-justify">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+                                    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+                                    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+                                    consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+                                    cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+                                    proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
                                     <div class="read-more blog_btn">
                                         <a href="post.php">Leer Mas <i class="fas fa-arrow-right"></i></a>
                                     </div>
@@ -75,9 +90,14 @@
                             </div>
                             <div class="col-lg-7 col-md-7 col-sm-7 col-xs-12">
                                 <div class="media-body news-body">
-                                    <h3 class="ptsans info_blog"><i class="fas fa-book blog_icon_color"> </i> Titulo del Post</h3>
+                                     <h3 class="ptsans info_blog"><i class="fas fa-book blog_icon_color"> </i> Titulo del Post</h3>
                                     <p class="meta">10 Abril, 2018 / Creado por luis Bernal</p>
-                                    <p class="blog_text">Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin commodo. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus. </p>
+                                    <p class="ptsans text-justify">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+                                    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+                                    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+                                    consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+                                    cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+                                    proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
                                     <div class="read-more blog_btn">
                                         <a href="post.php">Leer Mas <i class="fas fa-arrow-right"></i></a>
                                     </div>

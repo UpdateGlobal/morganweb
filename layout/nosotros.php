@@ -11,7 +11,7 @@
 		<div class="row p_lftb" align="center">
 			<i class="fas fa-users fa-10x"></i>
 			<h3 class="p_bt">¿Quienes somos?</h3>
-			<p class="text-center ptsans"> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+			<p class="text-justify ptsans"> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 			tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
 			quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
 			consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse

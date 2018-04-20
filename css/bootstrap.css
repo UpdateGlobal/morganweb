@@ -5671,7 +5671,7 @@ button.list-group-item-danger.active:focus {
   border: 0;
 }
 .panel-group {
-  margin-bottom: 20px;
+  margin-bottom: 10px;
 }
 .panel-group .panel {
   margin-bottom: 0;

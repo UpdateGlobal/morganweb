@@ -15,7 +15,10 @@
                     <div class="card-block">
                         <h3 class="ptsans info">Titulo de Noticia</h3>
                         <div class="card-text">
-                            <p class="info_subtext2 text-justify">Somos Lorem ipsum dolor, consectetur adipisicing elit, do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim , quis nostrud exercitation  laboris.</p>
+                           <p class="ptsans text-justify text_set">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+                        tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+                        quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+                        consequat.</p>
                         </div>
                     </div>
                     <div class="card-footer">
@@ -30,7 +33,10 @@
                     <div class="card-block">
                         <h3 class="ptsans info">Titulo de Noticia</h3>
                         <div class="card-text">
-                            <p class="info_subtext2 text-justify">Somos Lorem ipsum dolor, consectetur adipisicing elit, do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim , quis nostrud exercitation  laboris.</p>
+                            <p class="ptsans text-justify text_set">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+                        tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+                        quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+                        consequat.</p>
                         </div>
                     </div>
                     <div class="card-footer">
@@ -45,7 +51,10 @@
                     <div class="card-block">
                         <h3 class="ptsans info">Titulo de Noticia</h3>
                         <div class="card-text">
-                            <p class="info_subtext2 text-justify">Somos Lorem ipsum dolor, consectetur adipisicing elit, do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim , quis nostrud exercitation  laboris.</p>
+                          <p class="ptsans text-justify text_set">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+                        tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+                        quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+                        consequat.</p>
                         </div>
                     </div>
                     <div class="card-footer">
